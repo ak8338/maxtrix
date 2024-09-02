@@ -1,0 +1,2 @@
+# maxtrix
+Matrix in C
